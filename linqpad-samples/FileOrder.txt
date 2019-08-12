@@ -1,0 +1,4 @@
+Shuffle Inplace.linq
+Shuffle Copy.linq
+Shuffle Inplace Extensionmethod.linq
+Shuffle Copy Extensionmethod.linq

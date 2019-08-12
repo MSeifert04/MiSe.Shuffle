@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Configurations>Debug;Release;Coverage;Test;Documentation</Configurations>
+    <Version>0.0.1</Version>
+    <Authors>Michael Seifert</Authors>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <DocumentationFile>bin\MiSe.Shuffle.xml</DocumentationFile>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageTags>random shuffle linq linqpad-samples</PackageTags>
+    <Description>Methods for shuffling IList and IEnumerable</Description>
+    <PackageProjectUrl>https://github.com/MSeifert04/MiSe.Shuffle</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MSeifert04/MiSe.Shuffle</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.txt">
+      <Visible>False</Visible>
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\linqpad-samples\**">
+      <Visible>False</Visible>
+      <Pack>True</Pack>
+      <PackagePath>linqpad-samples\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>
