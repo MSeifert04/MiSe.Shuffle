@@ -1,4 +1,4 @@
-![GitHub release](https://img.shields.io/github/release/MSeifert04/MiSe.Shuffle) ![Nuget](https://img.shields.io/nuget/v/MiSe.Shuffle)
+[![GitHub release](https://img.shields.io/github/release/MSeifert04/MiSe.Shuffle)](https://github.com/MSeifert04/MiSe.Shuffle/releases) [![Nuget](https://img.shields.io/nuget/v/MiSe.Shuffle)](https://www.nuget.org/packages/MiSe.Shuffle/)
 
 # Shuffling ILists and IEnumerables
 
