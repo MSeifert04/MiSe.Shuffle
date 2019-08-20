@@ -1,0 +1,97 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: MiSe.Shuffle
+  name: MiSe.Shuffle
+  href: api/MiSe.Shuffle.html
+  commentId: N:MiSe.Shuffle
+  fullName: MiSe.Shuffle
+  nameWithType: MiSe.Shuffle
+- uid: MiSe.Shuffle.Extensions
+  name: MiSe.Shuffle.Extensions
+  href: api/MiSe.Shuffle.Extensions.html
+  commentId: N:MiSe.Shuffle.Extensions
+  fullName: MiSe.Shuffle.Extensions
+  nameWithType: MiSe.Shuffle.Extensions
+- uid: MiSe.Shuffle.Extensions.IEnumerableExtension
+  name: IEnumerableExtension
+  href: api/MiSe.Shuffle.Extensions.IEnumerableExtension.html
+  commentId: T:MiSe.Shuffle.Extensions.IEnumerableExtension
+  fullName: MiSe.Shuffle.Extensions.IEnumerableExtension
+  nameWithType: IEnumerableExtension
+- uid: MiSe.Shuffle.Extensions.IEnumerableExtension.ShuffleCopy*
+  name: ShuffleCopy
+  href: api/MiSe.Shuffle.Extensions.IEnumerableExtension.html#MiSe_Shuffle_Extensions_IEnumerableExtension_ShuffleCopy_
+  commentId: Overload:MiSe.Shuffle.Extensions.IEnumerableExtension.ShuffleCopy
+  isSpec: "True"
+  fullName: MiSe.Shuffle.Extensions.IEnumerableExtension.ShuffleCopy
+  nameWithType: IEnumerableExtension.ShuffleCopy
+- uid: MiSe.Shuffle.Extensions.IEnumerableExtension.ShuffleCopy``1(System.Collections.Generic.IEnumerable{``0},System.Random)
+  name: ShuffleCopy<T>(IEnumerable<T>, Random)
+  href: api/MiSe.Shuffle.Extensions.IEnumerableExtension.html#MiSe_Shuffle_Extensions_IEnumerableExtension_ShuffleCopy__1_System_Collections_Generic_IEnumerable___0__System_Random_
+  commentId: M:MiSe.Shuffle.Extensions.IEnumerableExtension.ShuffleCopy``1(System.Collections.Generic.IEnumerable{``0},System.Random)
+  name.vb: ShuffleCopy(Of T)(IEnumerable(Of T), Random)
+  fullName: MiSe.Shuffle.Extensions.IEnumerableExtension.ShuffleCopy<T>(System.Collections.Generic.IEnumerable<T>, System.Random)
+  fullName.vb: MiSe.Shuffle.Extensions.IEnumerableExtension.ShuffleCopy(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Random)
+  nameWithType: IEnumerableExtension.ShuffleCopy<T>(IEnumerable<T>, Random)
+  nameWithType.vb: IEnumerableExtension.ShuffleCopy(Of T)(IEnumerable(Of T), Random)
+- uid: MiSe.Shuffle.Extensions.RandomExtension
+  name: RandomExtension
+  href: api/MiSe.Shuffle.Extensions.RandomExtension.html
+  commentId: T:MiSe.Shuffle.Extensions.RandomExtension
+  fullName: MiSe.Shuffle.Extensions.RandomExtension
+  nameWithType: RandomExtension
+- uid: MiSe.Shuffle.Extensions.RandomExtension.Shuffle*
+  name: Shuffle
+  href: api/MiSe.Shuffle.Extensions.RandomExtension.html#MiSe_Shuffle_Extensions_RandomExtension_Shuffle_
+  commentId: Overload:MiSe.Shuffle.Extensions.RandomExtension.Shuffle
+  isSpec: "True"
+  fullName: MiSe.Shuffle.Extensions.RandomExtension.Shuffle
+  nameWithType: RandomExtension.Shuffle
+- uid: MiSe.Shuffle.Extensions.RandomExtension.Shuffle``1(System.Random,System.Collections.Generic.IList{``0})
+  name: Shuffle<T>(Random, IList<T>)
+  href: api/MiSe.Shuffle.Extensions.RandomExtension.html#MiSe_Shuffle_Extensions_RandomExtension_Shuffle__1_System_Random_System_Collections_Generic_IList___0__
+  commentId: M:MiSe.Shuffle.Extensions.RandomExtension.Shuffle``1(System.Random,System.Collections.Generic.IList{``0})
+  name.vb: Shuffle(Of T)(Random, IList(Of T))
+  fullName: MiSe.Shuffle.Extensions.RandomExtension.Shuffle<T>(System.Random, System.Collections.Generic.IList<T>)
+  fullName.vb: MiSe.Shuffle.Extensions.RandomExtension.Shuffle(Of T)(System.Random, System.Collections.Generic.IList(Of T))
+  nameWithType: RandomExtension.Shuffle<T>(Random, IList<T>)
+  nameWithType.vb: RandomExtension.Shuffle(Of T)(Random, IList(Of T))
+- uid: MiSe.Shuffle.ShuffleOps
+  name: ShuffleOps
+  href: api/MiSe.Shuffle.ShuffleOps.html
+  commentId: T:MiSe.Shuffle.ShuffleOps
+  fullName: MiSe.Shuffle.ShuffleOps
+  nameWithType: ShuffleOps
+- uid: MiSe.Shuffle.ShuffleOps.ShuffleCopy*
+  name: ShuffleCopy
+  href: api/MiSe.Shuffle.ShuffleOps.html#MiSe_Shuffle_ShuffleOps_ShuffleCopy_
+  commentId: Overload:MiSe.Shuffle.ShuffleOps.ShuffleCopy
+  isSpec: "True"
+  fullName: MiSe.Shuffle.ShuffleOps.ShuffleCopy
+  nameWithType: ShuffleOps.ShuffleCopy
+- uid: MiSe.Shuffle.ShuffleOps.ShuffleCopy``1(System.Collections.Generic.IEnumerable{``0},System.Random)
+  name: ShuffleCopy<T>(IEnumerable<T>, Random)
+  href: api/MiSe.Shuffle.ShuffleOps.html#MiSe_Shuffle_ShuffleOps_ShuffleCopy__1_System_Collections_Generic_IEnumerable___0__System_Random_
+  commentId: M:MiSe.Shuffle.ShuffleOps.ShuffleCopy``1(System.Collections.Generic.IEnumerable{``0},System.Random)
+  name.vb: ShuffleCopy(Of T)(IEnumerable(Of T), Random)
+  fullName: MiSe.Shuffle.ShuffleOps.ShuffleCopy<T>(System.Collections.Generic.IEnumerable<T>, System.Random)
+  fullName.vb: MiSe.Shuffle.ShuffleOps.ShuffleCopy(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Random)
+  nameWithType: ShuffleOps.ShuffleCopy<T>(IEnumerable<T>, Random)
+  nameWithType.vb: ShuffleOps.ShuffleCopy(Of T)(IEnumerable(Of T), Random)
+- uid: MiSe.Shuffle.ShuffleOps.ShuffleInPlace*
+  name: ShuffleInPlace
+  href: api/MiSe.Shuffle.ShuffleOps.html#MiSe_Shuffle_ShuffleOps_ShuffleInPlace_
+  commentId: Overload:MiSe.Shuffle.ShuffleOps.ShuffleInPlace
+  isSpec: "True"
+  fullName: MiSe.Shuffle.ShuffleOps.ShuffleInPlace
+  nameWithType: ShuffleOps.ShuffleInPlace
+- uid: MiSe.Shuffle.ShuffleOps.ShuffleInPlace``1(System.Collections.Generic.IList{``0},System.Random)
+  name: ShuffleInPlace<T>(IList<T>, Random)
+  href: api/MiSe.Shuffle.ShuffleOps.html#MiSe_Shuffle_ShuffleOps_ShuffleInPlace__1_System_Collections_Generic_IList___0__System_Random_
+  commentId: M:MiSe.Shuffle.ShuffleOps.ShuffleInPlace``1(System.Collections.Generic.IList{``0},System.Random)
+  name.vb: ShuffleInPlace(Of T)(IList(Of T), Random)
+  fullName: MiSe.Shuffle.ShuffleOps.ShuffleInPlace<T>(System.Collections.Generic.IList<T>, System.Random)
+  fullName.vb: MiSe.Shuffle.ShuffleOps.ShuffleInPlace(Of T)(System.Collections.Generic.IList(Of T), System.Random)
+  nameWithType: ShuffleOps.ShuffleInPlace<T>(IList<T>, Random)
+  nameWithType.vb: ShuffleOps.ShuffleInPlace(Of T)(IList(Of T), Random)
